@@ -2,7 +2,7 @@
 
 ## 📑 Temario
 
-1. [Ejercicio 1: Operación aritmética](#https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.1.py)
+1. [Ejercicio 1: Operación aritmética](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.1.py)
 2. [Ejercicio 2: Cociente y residuo](#https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.2.py)
 3. [Ejercicio 3: Condicional de edad](#https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.3.py)
 4. [Ejercicio 4: Pizzería Bella Napoli](#https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.4.py)
