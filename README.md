@@ -24,7 +24,7 @@
 18. [Ejercicio 18: Ventas desde CSV](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.18.py)
 19. [Ejercicio 19: Calificaciones desde CSV](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.19.py)
 
-## Primer bloque
+## Segundo bloque
 
 1. [Ejercicio 1: Medidas de dispersion](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.1.py)
 2. [Ejercicio 2: Media, Mediana y Moda](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.2.py)
