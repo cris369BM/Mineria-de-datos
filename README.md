@@ -2,6 +2,8 @@
 
 ## 📑 Temario
 
+## Primer bloque
+
 1. [Ejercicio 1: Operación aritmética](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.1.py)
 2. [Ejercicio 2: Cociente y residuo](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.2.py)
 3. [Ejercicio 3: Condicional de edad](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.3.py)
@@ -21,3 +23,8 @@
 17. [Ejercicio 17: Área y volumen](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.17.py)
 18. [Ejercicio 18: Ventas desde CSV](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.18.py)
 19. [Ejercicio 19: Calificaciones desde CSV](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.19.py)
+
+## Primer bloque
+
+1. [Ejercicio 1: Medidas de dispersion]()
+2. [Ejercicio 2:  Media, Mediana y Moda]()
