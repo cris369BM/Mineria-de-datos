@@ -29,3 +29,4 @@
 1. [Ejercicio 1: Medidas de dispersion](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.1.py)
 2. [Ejercicio 2: Media, Mediana y Moda](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.2.py)
 3. [Ejercicio 3: Correlacion](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.3.py)
+4. [Ejercicio 4: Graficas: Gráfica de barras, Boxplot, Histograma y dispersión](https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.4.py)
