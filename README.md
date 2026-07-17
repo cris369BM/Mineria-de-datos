@@ -31,5 +31,5 @@
 3. [Ejercicio 3: Correlacion](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.3.py)
 4. [Ejercicio 4: Graficas: Gráfica de barras, Boxplot, Histograma y dispersión](https://github.com/cris369BM/Mineria-de-datos/blob/main/p2.4.py)
 5. [Ejercicio 5: Arbol de raiz](https://github.com/cris369BM/Mineria-de-datos/blob/main/Practica6.drawio.png)
-6. [Ejercicio 6: Cuadro comarativo]([https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.6.py](https://github.com/cris369BM/Mineria-de-datos/blob/main/Captura%20de%20pantalla%202026-07-16%20074101.png))
-7. [Ejercicio 7: ]([https://github.com/cris369BM/Mineria-de-datos/blob/main/p1.7..py](https://github.com/cris369BM/Mineria-de-datos/blob/main/p.2.7.py)
+6. [Ejercicio 6: Cuadro comarativo](https://github.com/cris369BM/Mineria-de-datos/blob/main/Captura%20de%20pantalla%202026-07-16%20074101.png))
+7. [Ejercicio 7: ](https://github.com/cris369BM/Mineria-de-datos/blob/main/p.2.7.py)
