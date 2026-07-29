@@ -33,3 +33,7 @@
 5. [Ejercicio 5: Arbol de raiz](https://github.com/cris369BM/Mineria-de-datos/blob/main/Practica6.drawio.png)
 6. [Ejercicio 6: Cuadro comarativo](https://github.com/cris369BM/Mineria-de-datos/blob/main/Captura%20de%20pantalla%202026-07-16%20074101.png))
 7. [Ejercicio 7: ](https://github.com/cris369BM/Mineria-de-datos/blob/main/p.2.7.py)
+
+## Tercer bloque
+
+1. [K-Means](https://github.com/cris369BM/Mineria-de-datos/blob/main/p3.1.py)
